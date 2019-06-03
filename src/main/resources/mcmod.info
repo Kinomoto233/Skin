@@ -1,0 +1,16 @@
+[
+{
+  "modid": "skin",
+  "name": "Skin",
+  "description": "Skin like 300 heroes",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [""],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
